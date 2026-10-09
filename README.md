@@ -1,4 +1,4 @@
-# Herencia Múltiple en Python
+# El arte del píxel
 
 Este código fuente fue desarrollado para la presentación “El arte del píxel: domina la manipulación de imágenes desde cero con Pillow” para [PyDay México 2026](https://pyday.mx/). Consulta también las [diapositivas de la presentación](https://docs.google.com/presentation/d/e/2PACX-1vRDAzp-i79QK6n5Oc0jaK4jJaSIc1wqVSrau0kValP7i_WTFt25AWOR3DsbmacGsNt93pBrcKXKu3ff/pub?start=false&loop=false&delayms=3000).
 
