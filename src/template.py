@@ -1,7 +1,7 @@
 from PIL import Image
 
 
-INPUT_FILE = 'images/woman.png'
+INPUT_FILE = '../images/woman.png'
 OUTPUT_FILE = 'output.png'
 
 
