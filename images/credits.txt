@@ -1,0 +1,10 @@
+CREDITS
+
+All image assets provided in this folder are free-to-use
+images sourced from https://www.pexels.com/
+
+- puppy.png by Сергей Сёмин
+- snake.png by Pramod Giri
+- sunset.png by musafirdost08
+- tree.png by Johannes Plenio
+- woman.png by bishenova
