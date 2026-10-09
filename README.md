@@ -2,6 +2,8 @@
 
 Este código fuente fue desarrollado para la presentación “El arte del píxel: domina la manipulación de imágenes desde cero con Pillow” para [PyDay México 2026](https://pyday.mx/). Consulta también las [diapositivas de la presentación](https://docs.google.com/presentation/d/e/2PACX-1vRDAzp-i79QK6n5Oc0jaK4jJaSIc1wqVSrau0kValP7i_WTFt25AWOR3DsbmacGsNt93pBrcKXKu3ff/pub?start=false&loop=false&delayms=3000).
 
+Notas completas: [Pixel Level Image Processing](https://arielortiz.info/s202613/tc2038/image_processing/image_processing.html).
+
 ## Resumen
 
 Los desarrolladores modernos de Python suelen tratar el procesamiento de imágenes como una caja negra, confiando en bibliotecas de alto nivel para cambiar el tamaño, filtrar o codificar datos. Aunque este enfoque es eficiente, dicha abstracción oculta los fascinantes fundamentos matemáticos de los medios digitales. Este charla elimina esas capas para enseñarte a manipular imágenes interactuando con su elemento más fundamental: el píxel individual.
