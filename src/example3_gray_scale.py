@@ -11,13 +11,13 @@ def main():
         r, g, b = in_pix[x, y]
         avg = (r + g + b) // 3
         # avg = int(0.299 * r + 0.587 * g + 0.114 * b)
-        return (avg, avg, avg)
+        return avg
 
     with Image.open(INPUT_FILE) as img_file:
         in_img  = img_file.convert('RGB')
         in_pix  = in_img.load()
         size    = in_img.size
-        out_img = Image.new('RGB', size)
+        out_img = Image.new('L', size)
         out_pix = out_img.load()
         width, height = size
         for y in range(height):
